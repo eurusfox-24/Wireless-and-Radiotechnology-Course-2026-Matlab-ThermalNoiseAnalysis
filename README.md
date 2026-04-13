@@ -1,4 +1,5 @@
-# Thermal Noise Simulation and Analysis
+# Thermal Noise Modeling & Spectral Analysis
+> A MATLAB implementation for simulating Johnson-Nyquist noise and evaluating Power Spectral Density (PSD) characteristics.
 
 This repository contains a MATLAB simulation used to generate and analyze thermal noise based on physical parameters.
 
